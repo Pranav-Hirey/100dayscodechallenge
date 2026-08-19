@@ -12,6 +12,7 @@ The program takes two numbers from the user and calculates their sum.
 
 -Input:
 Enter first Number: 3
+<br>
 Enter second Number: 4
 
 -Output:
@@ -21,6 +22,7 @@ Sum = 7
 
 -Input:
 Enter first Number: -1
+<br>
 Enter second Number: 20
 
 -Output:
