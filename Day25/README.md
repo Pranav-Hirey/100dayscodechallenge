@@ -27,4 +27,4 @@ Write a program to print the following pattern :
 ### Code
 The program uses nested for loops to print a right-aligned inverted triangle pattern of stars, with the number of stars decreasing from 5 to 1 in each row.
 
-Day 24 Status: Completed 
+Day 25 Status: Completed 
